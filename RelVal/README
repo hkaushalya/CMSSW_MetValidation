@@ -3,14 +3,14 @@
 This is the Missing Et validation tool. Combined with the
 Validation/RecoMET package in CMSSW, it will produce plots
 indicating compatibility between software releases with
-an easily readable html interface.
+an easily readable html interface
 
 Authors:
 Bobby Scurlock (bslock@phys.ufl.edu)
 Richard Cavanaugh (cavanaug@phys.ufl.edu)
 Ronald Remington (remington@phys.ufl.edu)
 Michael Schmitt (mschmitt@phys.ufl.edu)
-
+Samantha Hewamanage (samantha@cern.ch)
 
 [Installation]
 
